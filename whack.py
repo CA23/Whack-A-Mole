@@ -2,7 +2,7 @@ import random
 import copy
 
 if __name__ == "__main__":
-    print 'Welcome, choose a size of at most 20 for your whack_a_mole grid'
+    print 'Welcome, choose a size of at most 20 (optional) for your whack_a_mole grid'
     print 'enter -1 and -1 for coordinates if you wish to give up'
     print 'the game uses 0 based indexing'
     print 'Example: for a grid size of 10 you need to enter coordinates from 0 to 9'
