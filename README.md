@@ -6,9 +6,9 @@ Added the Python version - works flawlessy
 
 Yet to debug the Java version, contains errors and warnings.
 
-The Python version of the game.
+For the Python version of the game:
 
-Run the python (whack.py) file using python whack.py on the termninal or you could also make it executable using chmdod +x whack.py and run it using ./whack.py on Linux (and the equivalent of running a python program on windows and other OS)
+Run the python (whack.py) file using 'python whack.py' on the termninal or you could also make it executable using 'chmdod +x whack.py' and run it using './whack.py' on Linux (and the equivalent of running a python program on windows and other OS)
 
 You will be prompted with basic info about the grid and an option to enter the size of the grid. The number of attempts depends on the size you choose
 
@@ -26,4 +26,4 @@ In the Java version, the grid appears as characters with 'M' representing a mole
 
 User manually enters the coordinates of a location to 'whack a mole' in a square grid
 
-Yet to debug, contains errors and warnings.
+The Java version is not functional yet. Hope to debug soon.
