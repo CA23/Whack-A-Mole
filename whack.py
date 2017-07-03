@@ -14,9 +14,7 @@ if __name__ == "__main__":
 
 
     l1 = random.sample(xrange(0, size), size)
-    print l1
     l2 = random.sample(xrange(0, size), size)
-    print l2
 
     for i in range(size):
         grid[l1[i]][l2[i]] = 'M'
