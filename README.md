@@ -2,7 +2,7 @@
 
 A simple text based implementation of the Whack A Mole game
 
-Added the Python version - works flawlessy
+Added the Python version
 
 Yet to debug the Java version, contains errors and warnings.
 
